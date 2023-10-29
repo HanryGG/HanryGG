@@ -5,6 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanryGG&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
+# Sobre
+
+  <p>Conto com sólida experiência na área administrativa e possuo habilidades em manutenção elétrica e linguagens de programação.</p>
+  
 # Linguagem de Programação que conheço
   
 <div style="display: inline_block"><br>
